@@ -1,0 +1,37 @@
+Git e GitHub para iniciantes
+
+==> Aula 02 
+
+-> Outros sistemas:
+   . Controle de versão por arquivos mudados;
+
+-> Sistema Git:
+   . Controle de versão por snapshots. ou seja
+     pega todo o estado;
+
+=> Versionamento:
+   1) Versionar arquivos do projeto automático;
+   2) Git trabalho com estados do projeto;
+
+====================================================================================================================
+
+==> Aula 03
+
+-> História do GIT;
+   . Linux - BitKeeper (Sistema de versionamento da epóca);
+     - Quebra de contrato;
+     - Necessidade de uma nova ferramenta de versão;
+   . GIT:
+     - Velocidade por salvar estados;
+     - Design simples;
+     - Suporte robusto não linear:
+       -> Branchs paralelas;
+     - Totalmente distribuído;
+     - Lidar de forma eficiente com o Linux;
+====================================================================================================================
+
+==> Aula 04
+
+-> GitHub:
+   . Git - sistema de controle de versão (cliente - Local);
+   . GitHub - Sistema web para armazenar seus projetos (Repositório remoto);
